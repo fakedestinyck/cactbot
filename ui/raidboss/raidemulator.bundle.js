@@ -12695,8 +12695,8 @@ var resources_regexes = __webpack_require__(6402);
 var responses = __webpack_require__(7469);
 // EXTERNAL MODULE: ./resources/user_config.ts
 var user_config = __webpack_require__(2456);
-// EXTERNAL MODULE: ./ui/raidboss/data/raidboss_manifest.txt + 411 modules
-var raidboss_manifest = __webpack_require__(9903);
+// EXTERNAL MODULE: ./ui/raidboss/data/raidboss_manifest.txt + 413 modules
+var raidboss_manifest = __webpack_require__(1487);
 ;// CONCATENATED MODULE: ./ui/raidboss/raidboss_options.ts
 
 // These options are ones that are not auto-defined by raidboss_config.js.
