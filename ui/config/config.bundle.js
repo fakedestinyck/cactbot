@@ -13394,8 +13394,8 @@ const generateBuffTriggerIds = () => {
   buffs.sort((a, b) => a.id.localeCompare(b.id));
   return buffs.map(buff => `Buff ${buff.id}`);
 };
-// EXTERNAL MODULE: ./ui/oopsyraidsy/data/oopsy_manifest.txt + 164 modules
-var oopsy_manifest = __webpack_require__(8457);
+// EXTERNAL MODULE: ./ui/oopsyraidsy/data/oopsy_manifest.txt + 165 modules
+var oopsy_manifest = __webpack_require__(2975);
 ;// CONCATENATED MODULE: ./ui/oopsyraidsy/oopsyraidsy_config.ts
 function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
 
@@ -13990,7 +13990,7 @@ class PartyTracker {
 // EXTERNAL MODULE: ./resources/responses.ts
 var responses = __webpack_require__(7469);
 // EXTERNAL MODULE: ./ui/raidboss/data/raidboss_manifest.txt + 413 modules
-var raidboss_manifest = __webpack_require__(1487);
+var raidboss_manifest = __webpack_require__(8719);
 ;// CONCATENATED MODULE: ./ui/raidboss/raidboss_options.ts
 
 // These options are ones that are not auto-defined by raidboss_config.js.
