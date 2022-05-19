@@ -12927,8 +12927,8 @@ const addRemotePlayerSelectUI = lang => {
 };
 // EXTERNAL MODULE: ./resources/user_config.ts
 var user_config = __webpack_require__(456);
-// EXTERNAL MODULE: ./ui/raidboss/data/raidboss_manifest.txt + 423 modules
-var raidboss_manifest = __webpack_require__(502);
+// EXTERNAL MODULE: ./ui/raidboss/data/raidboss_manifest.txt + 431 modules
+var raidboss_manifest = __webpack_require__(660);
 // EXTERNAL MODULE: ./resources/netregexes.ts
 var netregexes = __webpack_require__(622);
 // EXTERNAL MODULE: ./resources/not_reached.ts
