@@ -15648,8 +15648,8 @@ class DamageTracker {
   }
 
 }
-// EXTERNAL MODULE: ./ui/oopsyraidsy/data/oopsy_manifest.txt + 167 modules
-var oopsy_manifest = __webpack_require__(790);
+// EXTERNAL MODULE: ./ui/oopsyraidsy/data/oopsy_manifest.txt + 168 modules
+var oopsy_manifest = __webpack_require__(295);
 ;// CONCATENATED MODULE: ./ui/oopsyraidsy/mistake_collector.ts
 
 const broadcastSource = 'oopsyraidsy';

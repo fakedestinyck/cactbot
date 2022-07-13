@@ -13637,8 +13637,8 @@ const generateBuffTriggerIds = () => {
   buffs.sort((a, b) => a.id.localeCompare(b.id));
   return buffs.map(buff => `Buff ${buff.id}`);
 };
-// EXTERNAL MODULE: ./ui/oopsyraidsy/data/oopsy_manifest.txt + 167 modules
-var oopsy_manifest = __webpack_require__(790);
+// EXTERNAL MODULE: ./ui/oopsyraidsy/data/oopsy_manifest.txt + 168 modules
+var oopsy_manifest = __webpack_require__(295);
 ;// CONCATENATED MODULE: ./ui/oopsyraidsy/oopsyraidsy_config.ts
 
 
@@ -14879,8 +14879,8 @@ const translateRegex = (text, replaceLang, replacements) => {
 }; // Translates a timeline text for a given language.
 
 const translateText = (text, replaceLang, replacements) => translateWithReplacements(text, 'replaceText', replaceLang, replacements).text;
-// EXTERNAL MODULE: ./ui/raidboss/data/raidboss_manifest.txt + 434 modules
-var raidboss_manifest = __webpack_require__(960);
+// EXTERNAL MODULE: ./ui/raidboss/data/raidboss_manifest.txt + 436 modules
+var raidboss_manifest = __webpack_require__(894);
 ;// CONCATENATED MODULE: ./ui/raidboss/raidboss_options.ts
 
 // These options are ones that are not auto-defined by raidboss_config.js.
